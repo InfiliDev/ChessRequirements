@@ -1,6 +1,6 @@
 # ChessRequirements
 
-altgraph==0.17
+altgraph==0.17 \n
 pefile==2019.4.18
 numpy==1.23.5
 opencv-python==3.4.10.37
